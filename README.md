@@ -1,43 +1,50 @@
-# Cash Flow Forecasting & Cumulative Analysis (Project 2)
-This project simulates monthly revenue and expense data using Python and visualizes both net cash flow and cumulative cash position over a one-year period.
+# 📊 Cash Flow Forecasting & Analysis – Python & Excel
 
-# Tools & Libraries Used:
-Python
+This project demonstrates a complete cash flow forecasting and analysis pipeline using both Python and Excel.
 
-pandas
+It includes:
 
-matplotlib
+- Monthly revenue and expense forecasting
+- Net cash flow and cumulative cash calculations
+- Data visualization with Matplotlib (Python)
+- Excel version with visual enhancements
+- Pivot table summary with quarterly insights
 
-Google Colab
+---
 
-# What This Project Shows:
-Stable revenue and net positive monthly cash flow
+# 1. Python Analysis (Colab / Jupyter)
 
-Two months (Sep & Oct) with a revenue dip
+Using Python, we simulated a 12-month cash flow dataset and analyzed:
 
-Cumulative cash grows consistently over time
+- Net Cash Flow = Revenue - Expenses  
+- Cumulative Cash = Sum of net cash month by month  
+- Visualized trends using Matplotlib
 
-# Financial Insights:
-# Is the cumulative cash flow positive by year-end?
-Yes, and not just positive, but growing steadily every month. The curve shows an impressive upward trend, suggesting healthy financial operations.
+# Key Observations:
+- No month had a negative cash flow
+- Cumulative cash rose steadily
+- A slight dip in revenue was noticed in Sep–Oct, followed by quick recovery
+- Cash was accumulating — a suggestion was made to consider reinvestment
 
-# Any months with a drop in revenue?
-Yes. From August to September, revenue dropped from £21,000 to £19,000 — a decline of approximately 9.5%.
-Then again from September to October, revenue fell to £18,500 — a smaller drop of around 2.6%.
-Although these dips occurred, the business quickly recovered and ended the year with record-high revenues.
+---
 
-#  Any months with negative cash flow?
-No, all months remained in positive net cash flow territory. This indicates strong cash management and operational consistency.
+# 2. Excel Analysis
 
- # Strategic Observation:
-The company is accumulating a large amount of cash without signs of reinvestment.
-From a strategic point of view, holding idle cash can be a missed opportunity.
-Reinvesting into expansion, innovation, or product development could further accelerate growth.
-"Cash is king, but only if it moves."
+The same dataset was recreated in Excel with:
+- Conditional Formatting to flag potential risk
+- Data Bars for quick visual pattern detection
+- Line chart comparing Revenue, Expenses, and Net Cash Flow
+- Data Labels added for clear interpretation
+
+#  Visual Summary:
+> “This graph helped identify stable growth and highlighted any slight seasonal dips in cash flow. Excel remains
+
 
 
 
 <img width="1212" height="572" alt="Screenshot 2025-08-03 130807" src="https://github.com/user-attachments/assets/d1a035bc-0824-4e86-bdb3-a77b4d073fd0" />
+
+<img width="792" height="890" alt="Screenshot 2025-08-03 155345" src="https://github.com/user-attachments/assets/33214553-049c-42c5-914b-c02984c577f1" />
 
 
  
