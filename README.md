@@ -36,8 +36,11 @@ Reinvesting into expansion, innovation, or product development could further acc
 "Cash is king, but only if it moves."
 
 
+
 <img width="1212" height="572" alt="Screenshot 2025-08-03 130807" src="https://github.com/user-attachments/assets/d1a035bc-0824-4e86-bdb3-a77b4d073fd0" />
 
 
+ 
  Author
+
 Emine Ceran  | Data & Finance Explorer
