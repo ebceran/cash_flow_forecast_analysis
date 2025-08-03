@@ -40,7 +40,7 @@ The same dataset was recreated in Excel with:
 > “This graph helped identify stable growth and highlighted any slight seasonal dips in cash flow. Excel remains
 
 
-## 🖼 Visuals
+#  Visuals
 
 ![Chart 1 – Python](https://github.com/user-attachments/assets/d1a035bc-0824-4e86-bdb3-a77b4d073fd0)
 
@@ -48,6 +48,12 @@ The same dataset was recreated in Excel with:
 
 
  
- Author
 
-Emine Ceran  | Data & Finance Explorer
+## 👤 Author
+
+**Emine Ceran**  
+*Data & Finance Explorer*  
+📍 London | 💼 Python • Excel • FP&A  
+
+📢 Feel free to connect with me on [LinkedIn](https://linkedin.com) or explore more projects on my GitHub!
+
