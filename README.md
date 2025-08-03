@@ -40,11 +40,11 @@ The same dataset was recreated in Excel with:
 > “This graph helped identify stable growth and highlighted any slight seasonal dips in cash flow. Excel remains
 
 
+## 🖼 Visuals
 
+![Chart 1 – Python](https://github.com/user-attachments/assets/d1a035bc-0824-4e86-bdb3-a77b4d073fd0)
 
-<img width="1212" height="572" alt="Screenshot 2025-08-03 130807" src="https://github.com/user-attachments/assets/d1a035bc-0824-4e86-bdb3-a77b4d073fd0" />
-
-<img width="792" height="890" alt="Screenshot 2025-08-03 155345" src="https://github.com/user-attachments/assets/33214553-049c-42c5-914b-c02984c577f1" />
+![Chart 2 – Excel](https://github.com/user-attachments/assets/33214553-049c-42c5-914b-c02984c577f1)
 
 
  
